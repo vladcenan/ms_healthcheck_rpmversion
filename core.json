@@ -1,0 +1,14 @@
+{  
+  "microservice1":{
+    "apport": "100100",
+    "adport": "100110"
+  },
+  "microservice2":{
+    "apport": "99998",
+    "adport": "99999"
+  },
+  "microservice3":{
+    "apport": "212200",
+    "adport": "222200"
+  }
+}
